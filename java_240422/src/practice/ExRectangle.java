@@ -11,7 +11,7 @@ public class ExRectangle {
 		int height = square.nextInt();
 		int rectangleArea = width*height;
 		
-		System.out.println("사각형의 면적은 "+rectangleArea+"입니다.");
+		System.out.println("사각형의 면적은 "+rectangleArea+" 입니다.");
 		square.close();
 	}
 }
